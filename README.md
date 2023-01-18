@@ -4,4 +4,4 @@
 2. env\Scripts\activate
 3. pip install -r requirements.txt
 4. Open PyCharm or Visual Studio Code (code .)
-5. Run
+5. Run script.py
